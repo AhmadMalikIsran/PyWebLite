@@ -17,14 +17,3 @@ PyWebLite is a lightweight Python web framework designed for simplicity and ease
 - **Error Handling**: Provide graceful error pages for a user-friendly experience.
 - **Security Features**: Implement security measures like XSS and CSRF protection.
 
-## Acknowledgements
-
-PyWebLite's capabilities have impressed professors and mentors, showcasing the talent and potential of its young creator. The project has received compliments from individuals in the academic community, encouraging the continued development and exploration of web technologies.
-
-## Getting Started
-
-To get started with PyWebLite, follow the instructions in the main repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
