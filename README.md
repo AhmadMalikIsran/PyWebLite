@@ -1,6 +1,6 @@
 # PyWebLite
 
-PyWebLite is a lightweight Python web framework designed for simplicity and ease of use. Created by a talented 13-year-old student as a school project, PyWebLite draws inspiration from Django and offers a minimalist approach to web development. Despite its young creator, PyWebLite showcases impressive capabilities and has received praises from professors and mentors.
+PyWebLite is a lightweight Python web framework designed for simplicity and ease of use.PyWebLite draws inspiration from Django and offers a minimalist approach to web development. Despite its young creator, PyWebLite showcases impressive capabilities and has received praises from professors and mentors.
 
 ## Features
 
